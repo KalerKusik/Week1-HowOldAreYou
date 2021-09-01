@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.exe
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.deps.json
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.json
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfo.cs
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\admin\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.genruntimeconfig.cache
